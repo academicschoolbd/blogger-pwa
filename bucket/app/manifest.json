@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "Academic School BD",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Academic School",
+  "description": "Academic School is an educational plateform for students,teacher and so on...",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
